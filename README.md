@@ -1,7 +1,6 @@
 ### Olá! Eu sou Miguel Albuquerque 👋
 
 ![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ![Sociais](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelalbu&show_icons=true&theme=radical)
