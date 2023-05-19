@@ -9,7 +9,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miguelalbu&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Albu github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miguelalbu&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Albu github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalbu&theme=radical&hide_border=false&&layout=compact"/>
 </div>
 
  ## 
